@@ -1,0 +1,5 @@
+print("helo world")
+name=input("enter your name")
+age=input("enter your age")
+place=input("enter ur place")
+print("myself",name,"I am",age,"years old. My place is ",place)
