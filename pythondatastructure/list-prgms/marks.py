@@ -1,0 +1,10 @@
+marks=list()
+marks=["science=20","maths-21","mlayalam-23"]
+print(marks)
+marks.insert(2,"hindi-19")
+print(marks)
+print(marks[0:4:2])
+marks.append("social-15")
+print(marks)
+marks[2]="hindi-23"
+print(marks)
